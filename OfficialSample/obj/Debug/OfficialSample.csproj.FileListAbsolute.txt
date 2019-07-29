@@ -1,0 +1,8 @@
+C:\Users\Administrator\workspace\leapmotion\LeapMotionWPFSamples-master\LeapMotionWPFSamples-master\OfficialSample\bin\Debug\OfficialSample.exe.config
+C:\Users\Administrator\workspace\leapmotion\LeapMotionWPFSamples-master\LeapMotionWPFSamples-master\OfficialSample\bin\Debug\OfficialSample.exe
+C:\Users\Administrator\workspace\leapmotion\LeapMotionWPFSamples-master\LeapMotionWPFSamples-master\OfficialSample\bin\Debug\OfficialSample.pdb
+C:\Users\Administrator\workspace\leapmotion\LeapMotionWPFSamples-master\LeapMotionWPFSamples-master\OfficialSample\obj\Debug\OfficialSample.csprojAssemblyReference.cache
+C:\Users\Administrator\workspace\leapmotion\LeapMotionWPFSamples-master\LeapMotionWPFSamples-master\OfficialSample\obj\Debug\OfficialSample.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\workspace\leapmotion\LeapMotionWPFSamples-master\LeapMotionWPFSamples-master\OfficialSample\obj\Debug\OfficialSample.csproj.CopyComplete
+C:\Users\Administrator\workspace\leapmotion\LeapMotionWPFSamples-master\LeapMotionWPFSamples-master\OfficialSample\obj\Debug\OfficialSample.exe
+C:\Users\Administrator\workspace\leapmotion\LeapMotionWPFSamples-master\LeapMotionWPFSamples-master\OfficialSample\obj\Debug\OfficialSample.pdb
